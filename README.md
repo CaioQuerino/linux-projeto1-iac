@@ -61,7 +61,7 @@ Os seguintes grupos e usuários são criados:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/linux-projeto1-iac.git
+   git clone https://github.com/CaioQuerino/linux-projeto1-iac.git
    ```
 
 2. Navegue até o diretório do projeto:
